@@ -1,4 +1,4 @@
-![alt text](https://stmikgici.ac.id/wp-content/uploads/2020/09/MASTER.png)
+![Kampus Merdeka](https://stmikgici.ac.id/wp-content/uploads/2020/09/MASTER.png)
 
 ## Studi Independent
 
