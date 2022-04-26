@@ -1,0 +1,2935 @@
+{
+	"data": [
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDITY",
+				"chainCode": "RT",
+				"dupeId": "700989048",
+				"name": "ibis Jeddah City Center",
+				"rating": "3",
+				"cityCode": "JED",
+				"latitude": 21.55286,
+				"longitude": 39.17387,
+				"hotelDistance": {
+					"distance": 1.1,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"MADINAH BRANCH ROAD ",
+						"PO BOX 43356"
+					],
+					"postalCode": "23326",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/122337911",
+					"fax": "966/596027235",
+					"email": "h9507@accor.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "Ibis Jeddah City Center hotel offers you great value for money. Enjoy a perfect stay at the heart of Jeddah 15mins form Jeddah Airport, and only minutes away from Tahlia St. and Jeddah Corniche.\nRelish in our sumptuous buffet breakfast at Town restaurant, stay fit in our fully equipped gym and relax at Hadiqat Laila CafÃ© with live piano music. Our hotel has a lobby lounge and 24hrs  reception.\nOur meeting rooms comply with \"Paperless & Eco-friendly\" concept and meet the demands of your company's events."
+				},
+				"amenities": [
+					"ELEVATOR",
+					"ROOM_SERVICE",
+					"PARKING",
+					"EXPRESS_CHECK_IN",
+					"ADAPTED_PHONES",
+					"ACCESSIBLE_BATHS",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"DISABLED_FACILITIES",
+					"24_HOUR_FRONT_DESK",
+					"INTERNET_SERVICES",
+					"WIRELESS_CONNECTIVITY",
+					"MULTILINGUAL_STAFF",
+					"CONNECTING_ROOMS",
+					"220_AC",
+					"FIRE_SAFETY",
+					"SMOKE_DETECTOR",
+					"EMERGENCY_BACKUP_GENERATOR",
+					"FIRE_DETECTORS",
+					"EMERGENCY_LIGHTING",
+					"GARAGE_PARKING",
+					"RESTAURANT",
+					"MEETING_ROOMS",
+					"PHOTOCOPIER",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"SHOWER",
+					"HAIR_DRYER",
+					"WAKEUP_SERVICE",
+					"WI-FI_IN_ROOM",
+					"AIR_CONDITIONING",
+					"NON_SMOKING_ROOMS",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/A6B223A92F3040FCAB95331B7CB05077/A6B223A92F3040FCAB95331B7CB05077.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "MFPA811T4J",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "E5Z",
+					"rateFamilyEstimated": {
+						"code": "BAR",
+						"type": "P"
+					},
+					"room": {
+						"type": "C1D",
+						"typeEstimated": {
+							"category": "STANDARD_ROOM",
+							"beds": 1,
+							"bedType": "DOUBLE"
+						},
+						"description": {
+							"text": "MRate avail FLEXIBLE RATE\nStandard Room with 1 double bed"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "2935.20",
+						"variations": {
+							"average": {
+								"base": "249.00"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "249.00"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "249.00"
+								}
+							]
+						}
+					},
+					"policies": {
+						"guarantee": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD",
+									"TRAVEL_AGENT_ID"
+								]
+							}
+						},
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-14T19:00:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/MFPA811T4J"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDITY&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDMER",
+				"chainCode": "RT",
+				"dupeId": "700221092",
+				"name": "Mercure Jeddah Al Hamra",
+				"rating": "3",
+				"cityCode": "JED",
+				"latitude": 21.51576,
+				"longitude": 39.15959,
+				"hotelDistance": {
+					"distance": 3.4,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"ALEXANDRIA STREET",
+						"AL RUWAIS DISTRICT"
+					],
+					"postalCode": "21572",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/12/6644466",
+					"fax": "966/12/6649890",
+					"email": "h9243@accor.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "A 20 minute drive from King Abdulaziz International Airport brings visitors to the Mercure Jeddah Al Hamra in Jeddah, the \"Gateway to the Holy Cities\" of Makkah and Medina. Guests have a choice of 149 air-conditioned rooms from singles to suites, all offe ring Minibar, free WIFI and coffee/tea making facilities. Breakfast at the Palm Restaurant or Jasmine Coffee Lounge starts the day off right for a day of meetings or tourism. Or dine in the comfort of your room thanks to 24-hour room service."
+				},
+				"amenities": [
+					"ELEVATOR",
+					"CONCIERGE",
+					"PARKING",
+					"ACCESSIBLE_BATHS",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"DISABLED_FACILITIES",
+					"EXCHANGE_FACILITIES",
+					"BUS_PARKING",
+					"WIRELESS_CONNECTIVITY",
+					"220_AC",
+					"KIDS_WELCOME",
+					"SWIMMING_POOL",
+					"GARAGE_PARKING",
+					"INDOOR_POOL",
+					"RESTAURANT",
+					"JACUZZI",
+					"ROOM_SERVICE",
+					"SAUNA",
+					"EXPRESS_CHECK_OUT",
+					"LOUNGE",
+					"24_HOUR_FRONT_DESK",
+					"INTERNET_SERVICES",
+					"CONNECTING_ROOMS",
+					"PORTER/BELLBOY",
+					"BABY-SITTING",
+					"SMOKE_DETECTOR",
+					"EMERGENCY_BACKUP_GENERATOR",
+					"FIRE_DETECTORS",
+					"EMERGENCY_LIGHTING",
+					"MEETING_ROOMS",
+					"PHOTOCOPIER",
+					"AUDIO-VISUAL_EQUIPMENT",
+					"BUSINESS_CENTER",
+					"COMPUTER_RENTAL",
+					"MEETING_FACILITIES",
+					"IRON/IRON_BOARD",
+					"HIGH_SPEED_INTERNET_IN_ROOM",
+					"SHOWER",
+					"CRIBS_AVAILABLE",
+					"HAIR_DRYER",
+					"WAKEUP_SERVICE",
+					"WI-FI_IN_ROOM",
+					"AIR_CONDITIONING",
+					"FREE_NEWSPAPER",
+					"NON_SMOKING_ROOMS",
+					"BEACH",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/92D54C46049F4E7DA2328836D1D18B66/92D54C46049F4E7DA2328836D1D18B66.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "PDBOB3W3UL",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "GOV",
+					"rateFamilyEstimated": {
+						"code": "GOV",
+						"type": "C"
+					},
+					"room": {
+						"type": "B1K",
+						"typeEstimated": {
+							"category": "SUPERIOR_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "Government Rate\nEmployee ID required at check in\nSuperior Room with king Size Bed"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "3394.70",
+						"variations": {
+							"average": {
+								"base": "288.00"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "288.00"
+								}
+							]
+						}
+					},
+					"policies": {
+						"guarantee": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"DC",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD"
+								]
+							}
+						},
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-14T18:00:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/PDBOB3W3UL"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDMER&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDOAD",
+				"chainCode": "RT",
+				"dupeId": "700802552",
+				"name": "ibis Jeddah Malik Road",
+				"rating": "3",
+				"cityCode": "JED",
+				"latitude": 21.60311,
+				"longitude": 39.12177,
+				"hotelDistance": {
+					"distance": 8.5,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"MALIK ROAD",
+						"BESIDE ANB BANK"
+					],
+					"postalCode": "21352",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/126921444",
+					"fax": "966/0126921133",
+					"email": "H8378@accor.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "World - renowned ibis Hotels present the signature Economy flavored hospitality experience at vibrant Jeddah's Malik Road. Situated minutes away from the Corniche (Hub of entertainment in Jeddah) & Corporate Hub, the 3 star hotel is a great choice for smart & savvy global travelers who visit for business or leisure. Stylish designer lobby welcomes its guests in a ambiance tuned with cozy & comfortable sofas, along with sensory experiences built around our modern art."
+				},
+				"amenities": [
+					"ELEVATOR",
+					"OUTDOOR_POOL",
+					"PARKING",
+					"ACCESSIBLE_BATHS",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"DISABLED_FACILITIES",
+					"EXCHANGE_FACILITIES",
+					"BUS_PARKING",
+					"WIRELESS_CONNECTIVITY",
+					"220_AC",
+					"KIDS_WELCOME",
+					"SWIMMING_POOL",
+					"GARAGE_PARKING",
+					"RESTAURANT",
+					"SAFE_DEPOSIT_BOX",
+					"SAUNA",
+					"EXPRESS_CHECK_IN",
+					"CAR_RENTAL",
+					"EXPRESS_CHECK_OUT",
+					"LOUNGE",
+					"24_HOUR_FRONT_DESK",
+					"INTERNET_SERVICES",
+					"MULTILINGUAL_STAFF",
+					"CONNECTING_ROOMS",
+					"FIRE_SAFETY",
+					"SMOKE_DETECTOR",
+					"EMERGENCY_BACKUP_GENERATOR",
+					"FIRE_DETECTORS",
+					"EMERGENCY_LIGHTING",
+					"MASSAGE",
+					"PHOTOCOPIER",
+					"OVERHEAD_PROJECTOR",
+					"AUDIO-VISUAL_EQUIPMENT",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"WI-FI_IN_ROOM",
+					"SHOWER",
+					"VOICEMAIL_IN_ROOM",
+					"TELEVISION",
+					"WAKEUP_SERVICE",
+					"HAIR_DRYER",
+					"AIR_CONDITIONING",
+					"NON_SMOKING_ROOMS",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/A03C2995D907442B84F1B40DB73BA553/A03C2995D907442B84F1B40DB73BA553.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "PIWZKH3DZO",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "R9N",
+					"rateFamilyEstimated": {
+						"code": "PRO",
+						"type": "P"
+					},
+					"room": {
+						"type": "C1D",
+						"typeEstimated": {
+							"category": "STANDARD_ROOM",
+							"beds": 1,
+							"bedType": "DOUBLE"
+						},
+						"description": {
+							"text": "MRate avail ADVANCE SAVER\nStandard Room with 1 double bed"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "3394.70",
+						"variations": {
+							"average": {
+								"base": "288.00"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "288.00"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "288.00"
+								}
+							]
+						}
+					},
+					"policies": {
+						"deposit": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"DC",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD"
+								]
+							}
+						},
+						"paymentType": "deposit"
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/PIWZKH3DZO"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDOAD&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDXXX",
+				"chainCode": "RT",
+				"dupeId": "700042216",
+				"name": "MÃ¶venpick Hotel Jeddah",
+				"rating": "4",
+				"cityCode": "JED",
+				"latitude": 21.53511,
+				"longitude": 39.17917,
+				"hotelDistance": {
+					"distance": 1.1,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"AL-MADINAH AL-MUNAWARAH RD",
+						"P.O.BOX 2109"
+					],
+					"postalCode": "21451",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/12/6676655",
+					"fax": "966/12/2840046",
+					"email": "Hotel.Jeddah@movenpick.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "MÃ¶venpick Hotel Jeddah offers ultimate comfort for our leisure and business guests. our 4 stars hotel has a beautiful combination of traditional and modern facilities. All our 140 guests' rooms are furnished with modern amenities such as satellite television, free high-speed internet access, Business centre, 10 meeting rooms, Swimming pool, Gym, Sauna and Steam, high quality food and various selections."
+				},
+				"amenities": [
+					"ELEVATOR",
+					"CONCIERGE",
+					"JACUZZI",
+					"OUTDOOR_POOL",
+					"JOGGING_TRACK",
+					"SAUNA",
+					"PARKING",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"EXCHANGE_FACILITIES",
+					"HEATED_POOL",
+					"BUS_PARKING",
+					"LOUNGE",
+					"24_HOUR_FRONT_DESK",
+					"WIRELESS_CONNECTIVITY",
+					"CONNECTING_ROOMS",
+					"220_AC",
+					"KIDS_WELCOME",
+					"RESTAURANT",
+					"PHOTOCOPIER",
+					"BUSINESS_CENTER",
+					"IRON/IRON_BOARD",
+					"BATH",
+					"SHOWER",
+					"ALARM_CLOCK",
+					"VOICEMAIL_IN_ROOM",
+					"WAKEUP_SERVICE",
+					"HAIR_DRYER",
+					"WI-FI_IN_ROOM",
+					"TELEVISION",
+					"DIRECT_DIAL_PHONE",
+					"AIR_CONDITIONING",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/3AAA3E93143E47B890903F47F631332D/3AAA3E93143E47B890903F47F631332D.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "H3D57PIJFK",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "GOV",
+					"rateFamilyEstimated": {
+						"code": "GOV",
+						"type": "C"
+					},
+					"room": {
+						"type": "C1K",
+						"typeEstimated": {
+							"category": "STANDARD_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "Government Rate\nEmployee ID required at check in\nClassic King"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "4075.30",
+						"variations": {
+							"average": {
+								"base": "337.50"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "337.50"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "337.50"
+								}
+							]
+						}
+					},
+					"policies": {
+						"guarantee": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD",
+									"TRAVEL_AGENT_ID"
+								]
+							}
+						},
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-12T18:00:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/H3D57PIJFK"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDXXX&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "MDJEDMER",
+				"chainCode": "MD",
+				"dupeId": "700041376",
+				"name": "Le Meridien Jeddah",
+				"rating": "4",
+				"cityCode": "JED",
+				"latitude": 21.55907,
+				"longitude": 39.17215,
+				"hotelDistance": {
+					"distance": 1.8,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"MADINAH ROAD"
+					],
+					"postalCode": "21463",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "+966 12 6633333",
+					"fax": "+966 12 6632333",
+					"email": "sales.lmjeddah@lemeridien.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "On the banks of the Red Sea, Jeddah is a key port in Saudi Arabia and the world's largest open-air art gallery. Landscaped with natural art depicting Arabic culture, the city is decorated with sculpture throughout the city. Le MÃ©ridien Jeddah is nestled in the heart of the city amidst residential buildings and the main shopping and business areas.Within the hotel, a sleek black marble lobby leads to 293 sun-filled, spacious guest rooms. The Le Royal Club lounge overlooks the sea and Jeddah's white-stone cityscape, and the hotel's three restaurants offer an abundance of gastronomic choices from around the world.Le MÃ©ridien Jeddah is situated only 15 minutes from King Abdul Aziz International Airport."
+				},
+				"amenities": [
+					"SAUNA",
+					"CAR_RENTAL",
+					"EXPRESS_CHECK_IN",
+					"COFFEE_SHOP",
+					"ACCESSIBLE_FACILITIES",
+					"HANDRAILS_BATHROOM",
+					"ON-SITE_PARKING",
+					"VALET_PARKING",
+					"EXCHANGE_FACILITIES",
+					"FRONT_DESK",
+					"24_HOUR_FRONT_DESK",
+					"ICE_MACHINES",
+					"HAIRDRESSER",
+					"GAMES_ROOM",
+					"FLORIST",
+					"ONSITE_LAUNDRY",
+					"24_HOUR_ROOM_SERVICE",
+					"ROOM_SERVICE",
+					"TRAVEL_AGENCY",
+					"CONCIERGE",
+					"SAFE_DEPOSIT_BOX",
+					"DRY_CLEANING",
+					"LAUNDRY_SERVICE",
+					"WEDDING_SERVICES",
+					"GYM",
+					"FREE_PARKING",
+					"PARKING",
+					"SWIMMING_POOL",
+					"OUTDOOR_POOL",
+					"RESTAURANT",
+					"HIGH_SPEED_INTERNET",
+					"FREE_INTERNET",
+					"HIGH_SPEED_WIRELESS",
+					"WIRELESS_CONNECTIVITY",
+					"ELEVATOR",
+					"PHOTOCOPIER",
+					"SECRETARIAL_SERVICES",
+					"PRINTER",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"HIGH_SPEED_INTERNET_IN_ROOM",
+					"WI-FI_IN_ROOM",
+					"ALARM_CLOCK",
+					"AIR_CONDITIONING",
+					"SAFE",
+					"BIDET",
+					"HAIR_DRYER",
+					"IRON/IRON_BOARD",
+					"MICROWAVE",
+					"TELEVISION",
+					"CABLE_TELEVISION",
+					"TEA/COFFEE_MAKER",
+					"MINIBAR",
+					"OUTLET_ADAPTERS",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/469BEF795FDB4A99BAFAAE6BB2651A93/469BEF795FDB4A99BAFAAE6BB2651A93.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "ULDZ4I30WH",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "RAC",
+					"rateFamilyEstimated": {
+						"code": "PRO",
+						"type": "P"
+					},
+					"room": {
+						"type": "SM3",
+						"typeEstimated": {
+							"category": "STANDARD_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "Prepay Non-refundable, changes up to 4 days prior to stay\nStandard Rooms with King Size Bed, 1 King,\nMini fridge, 38sqm/409sqft, Wireless"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "4200.00",
+						"total": "5071.48",
+						"variations": {
+							"average": {
+								"base": "420.00"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "375.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "393.75"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "412.50"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "431.25"
+								}
+							]
+						}
+					},
+					"policies": {
+						"paymentType": "deposit"
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/ULDZ4I30WH"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=MDJEDMER&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDNOV",
+				"chainCode": "RT",
+				"dupeId": "700350894",
+				"name": "Novotel Jeddah Tahlia Street",
+				"rating": "4",
+				"cityCode": "JED",
+				"latitude": 21.55513,
+				"longitude": 39.17245,
+				"hotelDistance": {
+					"distance": 1.3,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"PRINCE MOHAMMED BIN ABDULAZIZ",
+						"STREET"
+					],
+					"postalCode": "21493",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/126090777",
+					"fax": "966/126052770",
+					"email": "H8906@ACCOR.COM"
+				},
+				"description": {
+					"lang": "en",
+					"text": "The 4-star Novotel Jeddah Tahlia Street is located in the heart of Jeddah, Saudi Arabia: a 20-minute drive from King Abdulaziz International Airport and 10 minutes from Jeddah Corniche. The hotel features 139 spacious modern rooms, which all offer AC, minibar, free WiFi, coffee/tea facilities, a safe box, and satellite TV. Relax beside the elegant rooftop pool or inside the luxurious spa. A restaurant serves breakfast, lunch, and dinner and there are a variety of meeting rooms available."
+				},
+				"amenities": [
+					"ELEVATOR",
+					"CONCIERGE",
+					"OUTDOOR_POOL",
+					"PARKING",
+					"ACCESSIBLE_BATHS",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"DISABLED_FACILITIES",
+					"EXCHANGE_FACILITIES",
+					"WIRELESS_CONNECTIVITY",
+					"120_AC",
+					"220_AC",
+					"KIDS_WELCOME",
+					"SWIMMING_POOL",
+					"POOLSIDE_SNACK_BAR",
+					"GARAGE_PARKING",
+					"RESTAURANT",
+					"JACUZZI",
+					"ROOM_SERVICE",
+					"SAUNA",
+					"EXPRESS_CHECK_OUT",
+					"LOUNGE",
+					"24_HOUR_FRONT_DESK",
+					"INTERNET_SERVICES",
+					"BABY-SITTING",
+					"FIRE_SAFETY",
+					"SMOKE_DETECTOR",
+					"EMERGENCY_BACKUP_GENERATOR",
+					"FIRE_DETECTORS",
+					"EMERGENCY_LIGHTING",
+					"MASSAGE",
+					"MEETING_ROOMS",
+					"PHOTOCOPIER",
+					"AUDIO-VISUAL_EQUIPMENT",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"SHOWER",
+					"ALARM_CLOCK",
+					"WAKEUP_SERVICE",
+					"HAIR_DRYER",
+					"WI-FI_IN_ROOM",
+					"CRIBS_AVAILABLE",
+					"AIR_CONDITIONING",
+					"FREE_NEWSPAPER",
+					"NON_SMOKING_ROOMS",
+					"WATER_SPORTS",
+					"BEACH",
+					"BOATING",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/243914309156471187438AFC07B113B0/243914309156471187438AFC07B113B0.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "GFPL3SGY6X",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "GOV",
+					"rateFamilyEstimated": {
+						"code": "GOV",
+						"type": "C"
+					},
+					"room": {
+						"type": "C2S",
+						"typeEstimated": {
+							"category": "SUPERIOR_ROOM",
+							"beds": 2,
+							"bedType": "SINGLE"
+						},
+						"description": {
+							"text": "Government Rate\nEmployee ID required at check in\nSuperior Room with 2 single beds and 1 sofa"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "5207.30",
+						"variations": {
+							"average": {
+								"base": "431.25"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "431.25"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "431.25"
+								}
+							]
+						}
+					},
+					"policies": {
+						"guarantee": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"DC",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD"
+								]
+							}
+						},
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-14T18:00:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/GFPL3SGY6X"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDNOV&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDMHT",
+				"chainCode": "RT",
+				"dupeId": "700732207",
+				"name": "MÃ¶venpick Hotel Tahlia Jeddah",
+				"rating": "5",
+				"cityCode": "JED",
+				"latitude": 21.54783,
+				"longitude": 39.15659,
+				"hotelDistance": {
+					"distance": 1.8,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"HAIL STREET, AL ANDALUS",
+						"ABDUL RAHMAN AT TUBAYSHI"
+					],
+					"postalCode": "23326",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/122132000",
+					"fax": "966/126125499",
+					"email": "hotel.tahlia@movenpick.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "Centrally located in Jeddah near Tahlia's shops and commercial areas, the sophisticated style of MÃ¶venpick Hotel Tahlia captures the city's energy in a chic design, making our 161 spacious guestrooms and suites ideal for any combination of business and relaxation. \r Enjoy the skyline scenery under umbrellas by the poolside and The Roof Garden. Unwind at the male-only spa and health club. Taste Michelin Star Chef Vineet Bhatia's interpretation of contemporary Indian cuisine at Rasoi."
+				},
+				"amenities": [
+					"ELEVATOR",
+					"CONCIERGE",
+					"JACUZZI",
+					"OUTDOOR_POOL",
+					"GIFT_SHOP",
+					"SAUNA",
+					"PARKING",
+					"ACCESSIBLE_BATHS",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"DISABLED_FACILITIES",
+					"HEATED_POOL",
+					"LOUNGE",
+					"24_HOUR_FRONT_DESK",
+					"WIRELESS_CONNECTIVITY",
+					"CONNECTING_ROOMS",
+					"PORTER/BELLBOY",
+					"KIDS_WELCOME",
+					"SOLARIUM",
+					"MASSAGE",
+					"VALET_PARKING",
+					"GARAGE_PARKING",
+					"RESTAURANT",
+					"MEETING_ROOMS",
+					"PHOTOCOPIER",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"IRON/IRON_BOARD",
+					"BIDET",
+					"SHOWER",
+					"HAIR_DRYER",
+					"WAKEUP_SERVICE",
+					"WI-FI_IN_ROOM",
+					"TELEVISION",
+					"AIR_CONDITIONING",
+					"TENNIS",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/5DC8994AA7E247EFBC2A8AEC6AFC08FF/5DC8994AA7E247EFBC2A8AEC6AFC08FF.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "4WIONFF8CL",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "GOV",
+					"rateFamilyEstimated": {
+						"code": "GOV",
+						"type": "C"
+					},
+					"room": {
+						"type": "C1K",
+						"typeEstimated": {
+							"category": "STANDARD_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "Government Rate\nEmployee ID required at check in\nClassic Room with 1 King Bed, City Side"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "5438.32",
+						"variations": {
+							"average": {
+								"base": "450.38"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "450.75"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "450.00"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "453.00"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "450.00"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "450.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "450.00"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "450.00"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "450.00"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "450.00"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "450.00"
+								}
+							]
+						}
+					},
+					"policies": {
+						"guarantee": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD"
+								]
+							}
+						},
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-14T18:00:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/4WIONFF8CL"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDMHT&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "HYJEDHHJ",
+				"chainCode": "HY",
+				"dupeId": "700729224",
+				"name": "Hyatt House Jeddah",
+				"rating": "3",
+				"cityCode": "JED",
+				"latitude": 21.57839,
+				"longitude": 39.15311,
+				"hotelDistance": {
+					"distance": 4.4,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"SARI STREET WEST",
+						"AL SALAMA DISTRICT"
+					],
+					"postalCode": "23436",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "+966 12 6331234",
+					"fax": "+966 12 6331235"
+				},
+				"description": {
+					"lang": "en",
+					"text": "102 key studio based Den and Suites; one food & beverage outlet; 24hrs grab & go market; 2 meeting rooms; business centre; 24hrs health club; outdoor roof top pool; complimentary covered parking space. Conveniently located on a new business district of the city."
+				},
+				"amenities": [
+					"24_HOUR_FRONT_DESK",
+					"ATM/CASH_MACHINE",
+					"CONCIERGE",
+					"EXCHANGE_FACILITIES",
+					"DOCTOR_ON_CALL",
+					"ELEVATOR",
+					"GYM",
+					"ACCESSIBLE_FACILITIES",
+					"WHEELCHAIR_ACCESSIBLE_WASHBASIN",
+					"WHEELCHAIR_ACCESSIBLE_WASHBASIN",
+					"WHEELCHAIR_ACCESSIBLE_LIGHT_SWITCH",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"SERVICE_DOGS_ALLOWED",
+					"DISABLED_ACCESSIBLE_TOILETS",
+					"HANDRAILS_BATHROOM",
+					"WHEELCHAIR_ACCESSIBLE_ELEVATORS",
+					"ACCESSIBLE_PARKING",
+					"EMERGENCY_PLAN_FOR_DISABLED",
+					"DISABLED_TRAINED_STAFF",
+					"ACCESSIBLE_BATH_CONTROLS",
+					"ACCESSIBLE_BATHS",
+					"WHEELCHAIR_ACCESSIBLE_ROOM",
+					"WIDE_ENTRANCE",
+					"WIDE_CORRIDORS",
+					"WIDE_RESTAURANT_ENTRANCE",
+					"ICE_MACHINES",
+					"GARAGE_PARKING",
+					"LAUNDRY_SERVICE",
+					"ON-SITE_PARKING",
+					"OUTDOOR_POOL",
+					"PARKING",
+					"SWIMMING_POOL",
+					"RESTAURANT",
+					"DRY_CLEANING",
+					"FRONT_DESK",
+					"BREAKFAST_FULL",
+					"WIFI",
+					"WIRELESS_CONNECTIVITY",
+					"KIDS_WELCOME",
+					"NO_PORN_FILMS",
+					"HIGH_SPEED_WIRELESS",
+					"FEMA_FIRE_SAFETY_COMPLIANT",
+					"PHOTOCOPIER",
+					"PRINTER",
+					"AUDIO-VISUAL_EQUIPMENT",
+					"BUSINESS_CENTER",
+					"COMPUTER_RENTAL",
+					"LCD/PROJECTOR",
+					"OVERHEAD_PROJECTOR",
+					"MEETING_FACILITIES",
+					"FIRE_SAFETY",
+					"EMERGENCY_BACKUP_GENERATOR",
+					"EMERGENCY_LIGHTING",
+					"FIRE_DETECTORS",
+					"GUARDED_PARKING",
+					"SPRINKLERS",
+					"FIRST_AID_STAF",
+					"SECURITY_GUARD",
+					"VIDEO_SURVEILANCE",
+					"EXTINGUISHERS",
+					"FEMA_FIRE_SAFETY_COMPLIANT",
+					"AIR_CONDITIONING",
+					"ALARM_CLOCK",
+					"BATH",
+					"CABLE_TELEVISION",
+					"TEA/COFFEE_MAKER",
+					"TELEVISION",
+					"CORDLESS_PHONE",
+					"DIRECT_DIAL_PHONE",
+					"HAIR_DRYER",
+					"HIGH_SPEED_INTERNET_IN_ROOM",
+					"KITCHEN",
+					"LAUNDRY_EQUIPMENT_IN_ROOM",
+					"MICROWAVE",
+					"MINIBAR",
+					"NON_SMOKING_ROOMS",
+					"REFRIGERATOR",
+					"SAFE",
+					"TROUSER_PRESS",
+					"VOICEMAIL_IN_ROOM",
+					"WAKEUP_SERVICE",
+					"WI-FI_IN_ROOM",
+					"SHOWER",
+					"OUTLET_ADAPTERS",
+					"FREE_HIGH_SPEED_INTERNET_IN_ROOM",
+					"MAID_SERVICE",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/9A5382C9A6794ED8B1198AF83F6DBD4E/9A5382C9A6794ED8B1198AF83F6DBD4E.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "HG1IHZYFPJ",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "***",
+					"rateFamilyEstimated": {
+						"code": "PRO",
+						"type": "P"
+					},
+					"room": {
+						"type": "SK4",
+						"typeEstimated": {
+							"category": "STANDARD_ROOM",
+							"beds": 2,
+							"bedType": "TWIN"
+						},
+						"description": {
+							"text": "ADV PURCHASE STDO KIT T SFBD\n2 TWIN BEDS: COZY CORNER: FLAT PANEL TV"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "5050.50",
+						"total": "6098.40",
+						"variations": {
+							"average": {
+								"base": "505.05"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "505.05"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "505.05"
+								}
+							]
+						}
+					},
+					"policies": {
+						"paymentType": "deposit"
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/HG1IHZYFPJ"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=HYJEDHHJ&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDMHC",
+				"chainCode": "RT",
+				"dupeId": "700325585",
+				"name": "MÃ¶venpick Jeddah City Star",
+				"rating": "5",
+				"cityCode": "JED",
+				"latitude": 21.60535,
+				"longitude": 39.15758,
+				"hotelDistance": {
+					"distance": 7.1,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"MADINAH ROAD",
+						"P.O. BOX 45407"
+					],
+					"postalCode": "21512",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/12/6180000",
+					"fax": "966/12/6180010",
+					"email": "Hotel.Jeddah.CityStar@movenpick.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "Extraordinary Business and Events Hotel in Central Jeddah featuring a classic interior design with a great location in the heart of the city, MÃ¶venpick Hotel City Star Jeddah offers 5-star service in elegant surroundings. The Al Harthy Exhibition Centre is just a short walk away, Mall of Arabia is nearby and King Abdulaziz International Airport can be reached in 15 minutes."
+				},
+				"amenities": [
+					"ELEVATOR",
+					"JACUZZI",
+					"SAUNA",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"DISABLED_FACILITIES",
+					"BALLROOM",
+					"BUS_PARKING",
+					"LOUNGE",
+					"WIRELESS_CONNECTIVITY",
+					"CONNECTING_ROOMS",
+					"220_AC",
+					"PORTER/BELLBOY",
+					"MASSAGE",
+					"VALET_PARKING",
+					"RESTAURANT",
+					"MEETING_ROOMS",
+					"OVERHEAD_PROJECTOR",
+					"MEETING_FACILITIES",
+					"IRON/IRON_BOARD",
+					"BIDET",
+					"ALARM_CLOCK",
+					"HAIR_DRYER",
+					"WAKEUP_SERVICE",
+					"DIRECT_DIAL_PHONE",
+					"AIR_CONDITIONING",
+					"NON_SMOKING_ROOMS"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/79583D1DD543429B99EF91C89BB6EE3C/79583D1DD543429B99EF91C89BB6EE3C.JPEG",
+						"category": "RESTAURANT"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "HVYQY4HVV6",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "R9N",
+					"rateFamilyEstimated": {
+						"code": "PRO",
+						"type": "P"
+					},
+					"room": {
+						"type": "A1K",
+						"typeEstimated": {
+							"category": "DELUXE_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "MRate avail ADVANCE SAVER\nDeluxe King"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "6334.18",
+						"variations": {
+							"average": {
+								"base": "524.57"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "578.60"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "518.50"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "518.50"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "518.50"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "518.50"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "518.50"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "518.50"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "518.52"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "519.07"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "518.50"
+								}
+							]
+						}
+					},
+					"policies": {
+						"deposit": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD"
+								]
+							}
+						},
+						"paymentType": "deposit"
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/HVYQY4HVV6"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDMHC&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDGIO",
+				"chainCode": "RT",
+				"dupeId": "700989056",
+				"name": "Adagio Jeddah City Center",
+				"rating": "4",
+				"cityCode": "JED",
+				"latitude": 21.55222,
+				"longitude": 39.17381,
+				"hotelDistance": {
+					"distance": 1,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"MADINAH BRANCH ROAD",
+						"P O BOX 43356"
+					],
+					"postalCode": "23326",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/122337911",
+					"fax": "966/596027235",
+					"email": "h9620@accor.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "Aparthotel Adagio Jeddah City Center offers stunning views across the city. Stay at the heart of Jeddah 15mins form Jeddah Airport, only minutes away from Tahlia St. and Jeddah Corniche.\nWith 188 fully furnished apartments with kitchens, our hotel is perfect for holidays and weekend stays. Enjoy our residents' lounge and check with our team to get help with all your needs.\nGuests have use of our state of the art gym, outdoor pool, and private car park. Our reception staff are available around the clock."
+				},
+				"amenities": [
+					"ELEVATOR",
+					"CONCIERGE",
+					"OUTDOOR_POOL",
+					"PARKING",
+					"EXPRESS_CHECK_IN",
+					"ADAPTED_PHONES",
+					"ACCESSIBLE_BATHS",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"DISABLED_FACILITIES",
+					"24_HOUR_FRONT_DESK",
+					"INTERNET_SERVICES",
+					"WIRELESS_CONNECTIVITY",
+					"MULTILINGUAL_STAFF",
+					"CONNECTING_ROOMS",
+					"220_AC",
+					"FIRE_SAFETY",
+					"SMOKE_DETECTOR",
+					"EMERGENCY_BACKUP_GENERATOR",
+					"FIRE_DETECTORS",
+					"EMERGENCY_LIGHTING",
+					"SWIMMING_POOL",
+					"GARAGE_PARKING",
+					"RESTAURANT",
+					"PHOTOCOPIER",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"IRON/IRON_BOARD",
+					"ALARM_CLOCK",
+					"SHOWER",
+					"TELEVISION",
+					"HAIR_DRYER",
+					"WAKEUP_SERVICE",
+					"WI-FI_IN_ROOM",
+					"DIRECT_DIAL_PHONE",
+					"AIR_CONDITIONING",
+					"NON_SMOKING_ROOMS",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/0A1FCA0B05474ED6B8F67FFE926D6E84/0A1FCA0B05474ED6B8F67FFE926D6E84.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "FQ1K1ERWTQ",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "1AD",
+					"rateFamilyEstimated": {
+						"code": "BAR",
+						"type": "P"
+					},
+					"room": {
+						"type": "P1D",
+						"typeEstimated": {
+							"category": "STUDIO",
+							"beds": 1,
+							"bedType": "DOUBLE"
+						},
+						"description": {
+							"text": "MRate avail BEST UNRESTRICTED RATE\nStudio 2 Persons"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "6629.20",
+						"variations": {
+							"average": {
+								"base": "549.00"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "549.00"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "549.00"
+								}
+							]
+						}
+					},
+					"policies": {
+						"guarantee": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD"
+								]
+							}
+						},
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-14T18:00:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/FQ1K1ERWTQ"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDGIO&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "SIJED224",
+				"chainCode": "SI",
+				"dupeId": "700075322",
+				"name": "Sheraton Jeddah Hotel",
+				"rating": "4",
+				"cityCode": "JED",
+				"latitude": 21.61448,
+				"longitude": 39.10859,
+				"hotelDistance": {
+					"distance": 10,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"NORTH CORNICHE - PO BOX 14315"
+					],
+					"postalCode": "21424",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "+966 12 6992212",
+					"fax": "+966 12 6992660",
+					"email": "Reservations.Jeddah@sheraton.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "With an exclusive location on the fashionable North Corniche and breathtaking views of the Red Sea, Sheraton Jeddah Hotel boasts 172 rooms and suites featuring Nespresso machines, comfortable work spaces and memorable views of the city and corniche. Our hotel offers five unique event spaces that can accommodate up to 300 guests, including an intimate ballroom with private access that has long been a favorite choice for weddings and other momentous social occasions in Jeddah. The perfect place to get together with friends or co-workers and enjoy a great meal, our Jeddah hotel offers international dining experiences at Feast Restaurant with weekly theme nights and mouthwatering BBQ grills at Tropical Garden. Enjoy a rejuvenating stay with us at Sheraton Jeddah Hotel."
+				},
+				"amenities": [
+					"BREAKFAST_FULL",
+					"SPA",
+					"EXECUTIVE_FLOOR",
+					"SAUNA",
+					"ACCESSIBLE_FACILITIES",
+					"HANDRAILS_BATHROOM",
+					"ON-SITE_PARKING",
+					"FRONT_DESK",
+					"24_HOUR_FRONT_DESK",
+					"ONSITE_LAUNDRY",
+					"CAR_RENTAL",
+					"24_HOUR_ROOM_SERVICE",
+					"ROOM_SERVICE",
+					"VALET_PARKING",
+					"EXPRESS_CHECK_IN",
+					"EXPRESS_CHECK_OUT",
+					"LOUNGE",
+					"COFFEE_SHOP",
+					"DRY_CLEANING",
+					"LAUNDRY_SERVICE",
+					"WEDDING_SERVICES",
+					"GYM",
+					"FREE_PARKING",
+					"PARKING",
+					"SWIMMING_POOL",
+					"OUTDOOR_POOL",
+					"RESTAURANT",
+					"HIGH_SPEED_INTERNET",
+					"FREE_INTERNET",
+					"HIGH_SPEED_WIRELESS",
+					"WIRELESS_CONNECTIVITY",
+					"ELEVATOR",
+					"PHOTOCOPIER",
+					"PRINTER",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"HIGH_SPEED_INTERNET_IN_ROOM",
+					"WI-FI_IN_ROOM",
+					"FREE_LOCAL_CALLS",
+					"ALARM_CLOCK",
+					"AIR_CONDITIONING",
+					"SAFE",
+					"MINIBAR",
+					"BIDET",
+					"HAIR_DRYER",
+					"IRON/IRON_BOARD",
+					"CRIBS_AVAILABLE",
+					"ROLLAWAY_BEDS",
+					"TELEVISION",
+					"CABLE_TELEVISION",
+					"VOICEMAIL_IN_ROOM",
+					"TEA/COFFEE_MAKER",
+					"BALLROOM",
+					"FITNESS_CENTER",
+					"SCUBA_DIVING"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/5D65B4FE0A4342E8AF157E73CE914C6B/5D65B4FE0A4342E8AF157E73CE914C6B.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "SR6KCTKTJN",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "MAJ",
+					"rateFamilyEstimated": {
+						"code": "FAM",
+						"type": "P"
+					},
+					"room": {
+						"type": "XWE",
+						"typeEstimated": {
+							"category": "FAMILY_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "Buy 2 rooms and get 50% off 2nd room, Family Offer\nStandard City View - not in main building, 1\nKing, Mini fridge, 28sqm/301sqft, Wireless"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "8000.00",
+						"total": "9660.00",
+						"variations": {
+							"average": {
+								"base": "800.00"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "800.00"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "800.00"
+								}
+							]
+						}
+					},
+					"policies": {
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-13T23:59:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/SR6KCTKTJN"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=SIJED224&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "LCJEDLAL",
+				"chainCode": "LC",
+				"dupeId": "700348644",
+				"name": "Assila a Luxury Collection Hotel Jeddah",
+				"rating": "5",
+				"cityCode": "JED",
+				"latitude": 21.55178,
+				"longitude": 39.1625,
+				"hotelDistance": {
+					"distance": 1.4,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"PRINCE MOHAMMED BIN ABDULAZIZ",
+						"AL ANDALUS"
+					],
+					"postalCode": "21391 ",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "+966 12 231 9800",
+					"fax": "+966 12 2319900",
+					"email": "cec.jedla@marriott.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "The epitome of understated opulence and exclusivity, Assila, a Luxury Collection Hotel, is a celebration of the citys progress. A modern masterpiece that artfully blends traditional Arabian hospitality with contemporary sophistication. Luxuriously spacious rooms & suites flawlessly furnished, with spectacular city views, present a picture of refined elegance and unprecedented comfort. Enchanting spa, rooftop pool, sporting facilities and global gastronomy cater to every extravagant wish, want or whim."
+				},
+				"amenities": [
+					"BREAKFAST_FULL",
+					"SPA",
+					"SAUNA",
+					"LOUNGE",
+					"COFFEE_SHOP",
+					"CAR_RENTAL",
+					"VALET_PARKING",
+					"ACCESSIBLE_FACILITIES",
+					"DISABLED_ACCESSIBLE_TOILETS",
+					"HANDRAILS_BATHROOM",
+					"24_HOUR_ROOM_SERVICE",
+					"ROOM_SERVICE",
+					"ICE_MACHINES",
+					"HAIRDRESSER",
+					"FLORIST",
+					"ONSITE_LAUNDRY",
+					"CONCIERGE",
+					"SAFE_DEPOSIT_BOX",
+					"EXCHANGE_FACILITIES",
+					"FRONT_DESK",
+					"24_HOUR_FRONT_DESK",
+					"DRY_CLEANING",
+					"LAUNDRY_SERVICE",
+					"ON-SITE_PARKING",
+					"GYM",
+					"FREE_PARKING",
+					"PARKING",
+					"SWIMMING_POOL",
+					"OUTDOOR_POOL",
+					"RESTAURANT",
+					"HIGH_SPEED_INTERNET",
+					"FREE_INTERNET",
+					"HIGH_SPEED_WIRELESS",
+					"WIRELESS_CONNECTIVITY",
+					"ELEVATOR",
+					"PRINTER",
+					"PHOTOCOPIER",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"HIGH_SPEED_INTERNET_IN_ROOM",
+					"WI-FI_IN_ROOM",
+					"CRIBS_AVAILABLE",
+					"ROLLAWAY_BEDS",
+					"HAIR_DRYER",
+					"IRON/IRON_BOARD",
+					"TELEVISION",
+					"CABLE_TELEVISION",
+					"VOICEMAIL_IN_ROOM",
+					"REFRIGERATOR",
+					"MICROWAVE",
+					"OUTLET_ADAPTERS",
+					"BATH",
+					"BIDET",
+					"MOVIE_CHANNELS",
+					"DIRECT_DIAL_PHONE",
+					"CORDLESS_PHONE",
+					"TEA/COFFEE_MAKER",
+					"AIR_CONDITIONING",
+					"SAFE",
+					"MINIBAR",
+					"BALLROOM",
+					"FITNESS_CENTER",
+					"BEACH"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/28EFE6495C5D449AABFFB8047F104F8F/28EFE6495C5D449AABFFB8047F104F8F.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "O8UF6VX7A7",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "S9R",
+					"rateFamilyEstimated": {
+						"code": "SRS",
+						"type": "C"
+					},
+					"room": {
+						"type": "XMI",
+						"typeEstimated": {
+							"category": "STANDARD_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "Marriott Senior Discount, 62 years and older valid ID required\nOur King Rooms have high ceilings furnished\nwith king-sized beds, a large work desk., 1"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "10710.00",
+						"total": "12932.34",
+						"variations": {
+							"average": {
+								"base": "1071.00"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "1105.00"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "1105.00"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "1105.00"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "1105.00"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "1105.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "935.00"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "935.00"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "1105.00"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "1105.00"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "1105.00"
+								}
+							]
+						}
+					},
+					"policies": {
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-13T23:59:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/O8UF6VX7A7"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=LCJEDLAL&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "HLJED100",
+				"chainCode": "HL",
+				"dupeId": "700036354",
+				"name": "JEDDAH HILTON HOTEL",
+				"rating": "5",
+				"cityCode": "JED",
+				"latitude": 21.60457,
+				"longitude": 39.10911,
+				"hotelDistance": {
+					"distance": 9.5,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"NORTH CORNICHE ROAD"
+					],
+					"postalCode": "21362",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "+966 920 003800",
+					"fax": "+966 659 1111"
+				},
+				"description": {
+					"lang": "en",
+					"text": "The strikingly modern Jeddah Hilton hotel - Saudi Arabia*s largest - overlooks the Red Sea and is just 15 minutes from the airport. Do business in one of 11 meeting rooms or the Executive Lounge or relax in the health club with 2 pools tennis and a gym. \rEnjoy fine Persian cuisine at the Al Khayam Restaurant or American fare at the Manhattan Sport Diner. Sporty types will love the floodlit tennis courts 2 pools and bowling alley onsite at the Jeddah Hilton hotel. Enjoy access to a private white-sand beach club with swimming and diving. Jeddah attractions like the floating mosque and King*s fountain are nearby.\rJust 15 minutes from the airport the Jeddah Hilton hotel has 11 meeting rooms for 10-50 wireless internet access in all public areas a business center and an Executive Lounge. All Jeddah Hilton hotel rooms have high-speed internet access. Deluxe Rooms Plus have sea views and Executive Rooms offer Executive Lounge access."
+				},
+				"amenities": [
+					"AIRLINE_DESK",
+					"ATM/CASH_MACHINE",
+					"CAR_RENTAL",
+					"COFFEE_SHOP",
+					"CONCIERGE",
+					"CONFERENCE_FACILITIES",
+					"EXCHANGE_FACILITIES",
+					"EXECUTIVE_FLOOR",
+					"GYM",
+					"GIFT_SHOP",
+					"HEATED_POOL",
+					"INDOOR_POOL",
+					"JACUZZI",
+					"LAUNDRY_SERVICE",
+					"MASSAGE",
+					"ON-SITE_PARKING",
+					"OUTDOOR_POOL",
+					"PARKING",
+					"SWIMMING_POOL",
+					"SAFE_DEPOSIT_BOX",
+					"SPA",
+					"CONVENIENCE_STORE",
+					"VALET_PARKING",
+					"TRANSPORTATION",
+					"WIFI",
+					"WIRELESS_CONNECTIVITY",
+					"KIDS_WELCOME",
+					"HIGH_SPEED_WIRELESS",
+					"FEMA_FIRE_SAFETY_COMPLIANT",
+					"PHOTOCOPIER",
+					"PRINTER",
+					"AUDIO-VISUAL_EQUIPMENT",
+					"BUSINESS_CENTER",
+					"COMPUTER_RENTAL",
+					"SECRETARIAL_SERVICES",
+					"MEETING_FACILITIES",
+					"FIRE_SAFETY",
+					"EMERGENCY_LIGHTING",
+					"FIRE_DETECTORS",
+					"GUARDED_PARKING",
+					"SPRINKLERS",
+					"FIRST_AID_STAF",
+					"SECURITY_GUARD",
+					"EXTINGUISHERS",
+					"FEMA_FIRE_SAFETY_COMPLIANT",
+					"AIR_CONDITIONING",
+					"ALARM_CLOCK",
+					"BIDET",
+					"CABLE_TELEVISION",
+					"HAIR_DRYER",
+					"HIGH_SPEED_INTERNET_IN_ROOM",
+					"MINIBAR",
+					"NON_SMOKING_ROOMS",
+					"SAFE",
+					"VOICEMAIL_IN_ROOM",
+					"WI-FI_IN_ROOM",
+					"GOLF",
+					"FITNESS_CENTER",
+					"SCUBA_DIVING"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/0B8EDFB42C874AA4BFA01E300E4A3E32/0B8EDFB42C874AA4BFA01E300E4A3E32.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "3SO9EQIUXN",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "RAC",
+					"rateFamilyEstimated": {
+						"code": "PRO",
+						"type": "P"
+					},
+					"room": {
+						"type": "A01",
+						"typeEstimated": {
+							"category": "DELUXE_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "ADVANCE PURCHASE\nKING DELUXE ROOM CITY VIEW\nCONTEMPORARY DECOR BRIGHT ROOM CITY VIEW"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "11120.20",
+						"total": "13427.60",
+						"variations": {
+							"average": {
+								"base": "1112.02"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "1112.02"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "1112.02"
+								}
+							]
+						}
+					},
+					"policies": {
+						"deposit": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"CU",
+									"DC",
+									"DS",
+									"JC",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD"
+								]
+							}
+						},
+						"paymentType": "deposit"
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/3SO9EQIUXN"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=HLJED100&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RTJEDYYY",
+				"chainCode": "RT",
+				"dupeId": "700075318",
+				"name": "MÃ¶venpick Resort Al Nawras Jeddah",
+				"rating": "5",
+				"cityCode": "JED",
+				"latitude": 21.58826,
+				"longitude": 39.10578,
+				"hotelDistance": {
+					"distance": 8.6,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"PO BOX 14018 NORTH CORNISH ROAD",
+						"BESIDE AL NAWRAS SQUARE"
+					],
+					"postalCode": "21424",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "966/12/6555550",
+					"fax": "966/12/6076833",
+					"email": "resort.jeddah-alnawras.reservation@movenpick.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "MÃ¶venpick Resort Al Nawras is uniquely located on a private island on the Red Sea, adjacent to Jeddahs famous North Corniche and just 20 minutes from the city centre. The Resort boasts 69 individual suites each with private pool and kitchenette while our leisure facilities include one banquet hall well placed  complete the experience. Business or leisure, you are assured of a warm welcome and our true excellence in Swiss hospitality."
+				},
+				"amenities": [
+					"JACUZZI",
+					"SAUNA",
+					"PARKING",
+					"ACCESSIBLE_BATHS",
+					"WHEELCHAIR_ACCESSIBLE_PUBLIC_AREA",
+					"HEATED_POOL",
+					"BUS_PARKING",
+					"24_HOUR_FRONT_DESK",
+					"WIRELESS_CONNECTIVITY",
+					"PORTER/BELLBOY",
+					"MASSAGE",
+					"INDOOR_POOL",
+					"BUSINESS_CENTER",
+					"IRON/IRON_BOARD",
+					"BIDET",
+					"CRIBS_AVAILABLE",
+					"HAIR_DRYER",
+					"WAKEUP_SERVICE",
+					"WI-FI_IN_ROOM",
+					"TELEVISION",
+					"AIR_CONDITIONING",
+					"NON_SMOKING_ROOMS",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/ED180FE2F1154BFE86836AEBDC7C4C6F/ED180FE2F1154BFE86836AEBDC7C4C6F.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "Y0Q6LVTDK6",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "GOV",
+					"rateFamilyEstimated": {
+						"code": "GOV",
+						"type": "C"
+					},
+					"room": {
+						"type": "V1K",
+						"typeEstimated": {
+							"category": "VILLA",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "Government Rate\nEmployee ID required at check in\nVilla One Bedroom King"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "0.00",
+						"total": "16391.78",
+						"variations": {
+							"average": {
+								"base": "1357.50"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "1312.50"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "1312.50"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "1312.50"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "1312.50"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "1312.50"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "1537.50"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "1537.50"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "1312.50"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "1312.50"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "1312.50"
+								}
+							]
+						}
+					},
+					"policies": {
+						"deposit": {
+							"acceptedPayments": {
+								"creditCards": [
+									"AX",
+									"CA",
+									"VI"
+								],
+								"methods": [
+									"CREDIT_CARD"
+								]
+							}
+						},
+						"paymentType": "deposit"
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/Y0Q6LVTDK6"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RTJEDYYY&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		},
+		{
+			"type": "hotel-offers",
+			"hotel": {
+				"type": "hotel",
+				"hotelId": "RZJEDRJZ",
+				"chainCode": "RZ",
+				"dupeId": "700497972",
+				"name": "The Ritz-Carlton Jeddah",
+				"rating": "5",
+				"cityCode": "JED",
+				"latitude": 21.5248,
+				"longitude": 39.15169,
+				"hotelDistance": {
+					"distance": 3,
+					"distanceUnit": "KM"
+				},
+				"address": {
+					"lines": [
+						"AL HAMRA DISTRICT",
+						"PO BOX 13344"
+					],
+					"postalCode": "21493",
+					"cityName": "JEDDAH",
+					"countryCode": "SA"
+				},
+				"contact": {
+					"phone": "+966 12 2314444",
+					"fax": "+966 12 2314400",
+					"email": "rc.jedrj.reservations@ritzcarlton.com"
+				},
+				"description": {
+					"lang": "en",
+					"text": "Overlooking The King Fahad Fountain, the majestic structure of The Ritz-Carlton, Jeddah captivates bypassers reflecting the classical architecture with Arabic punctuations. The hotel features opulent rooms and suites that blend the essence of glamour, heritage and provokes a feeling of royalty. The Ritz-Carlton, Jeddah also sets the new conferences' benchmark in Saudi Arabia for luxury events and dynamic business meetings. This iconic landmark also embraces two fine dining restaurants with a tantalizing array of gastronomic treasures. For ultimate indulgence our lounge features decadent desserts, rich snacks and delectable beverages. To help you unwind beyond mere relaxation, three treatment rooms await you at the gentlemen's spa with unique and rejuvenating treatments."
+				},
+				"amenities": [
+					"BREAKFAST_FULL",
+					"SPA",
+					"ACCESSIBLE_FACILITIES",
+					"DISABLED_ACCESSIBLE_TOILETS",
+					"LAUNDRY_SERVICE",
+					"ICE_MACHINES",
+					"INTERIOR_ROOM_ENTRY",
+					"GIFT_SHOP",
+					"HAIRDRESSER",
+					"FLORIST",
+					"ONSITE_LAUNDRY",
+					"ON-SITE_PARKING",
+					"VALET_PARKING",
+					"EXPRESS_CHECK_IN",
+					"EXPRESS_CHECK_OUT",
+					"CAR_RENTAL",
+					"LOUNGE",
+					"COFFEE_SHOP",
+					"CONCIERGE",
+					"FRONT_DESK",
+					"24_HOUR_FRONT_DESK",
+					"24_HOUR_ROOM_SERVICE",
+					"ROOM_SERVICE",
+					"ATM/CASH_MACHINE",
+					"WEDDING_SERVICES",
+					"GYM",
+					"FREE_PARKING",
+					"PARKING",
+					"RESTAURANT",
+					"HIGH_SPEED_INTERNET",
+					"FREE_INTERNET",
+					"HIGH_SPEED_WIRELESS",
+					"WIRELESS_CONNECTIVITY",
+					"ELEVATOR",
+					"PHOTOCOPIER",
+					"PRINTER",
+					"SECRETARIAL_SERVICES",
+					"BUSINESS_CENTER",
+					"MEETING_FACILITIES",
+					"HIGH_SPEED_INTERNET_IN_ROOM",
+					"WI-FI_IN_ROOM",
+					"ALARM_CLOCK",
+					"AIR_CONDITIONING",
+					"HAIR_DRYER",
+					"IRON/IRON_BOARD",
+					"TELEVISION",
+					"CABLE_TELEVISION",
+					"VOICEMAIL_IN_ROOM",
+					"REFRIGERATOR",
+					"MICROWAVE",
+					"OUTLET_ADAPTERS",
+					"BIDET",
+					"DIRECT_DIAL_PHONE",
+					"TEA/COFFEE_MAKER",
+					"SAFE",
+					"MINIBAR",
+					"FITNESS_CENTER"
+				],
+				"media": [
+					{
+						"uri": "https://d2573qu6qrjt8c.cloudfront.net/F239C7EFEA0E4BC18E6715401B205502/F239C7EFEA0E4BC18E6715401B205502.JPEG",
+						"category": "EXTERIOR"
+					}
+				]
+			},
+			"available": true,
+			"offers": [
+				{
+					"id": "HT5HHHAQZM",
+					"checkInDate": "2022-05-14",
+					"checkOutDate": "2022-05-24",
+					"rateCode": "RAC",
+					"rateFamilyEstimated": {
+						"code": "BAR",
+						"type": "P"
+					},
+					"room": {
+						"type": "REG",
+						"typeEstimated": {
+							"category": "DELUXE_ROOM",
+							"beds": 1,
+							"bedType": "KING"
+						},
+						"description": {
+							"text": "Flexible Rate\nDeluxe Room, 1 King, Mini fridge,\n36sqm/387sqft, Wireless internet, for a fee,"
+						}
+					},
+					"guests": {
+						"adults": 2
+					},
+					"price": {
+						"currency": "SAR",
+						"base": "35000.00",
+						"total": "42262.50",
+						"variations": {
+							"average": {
+								"base": "3500.00"
+							},
+							"changes": [
+								{
+									"startDate": "2022-05-14",
+									"endDate": "2022-05-15",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-15",
+									"endDate": "2022-05-16",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-16",
+									"endDate": "2022-05-17",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-17",
+									"endDate": "2022-05-18",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-18",
+									"endDate": "2022-05-19",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-19",
+									"endDate": "2022-05-20",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-20",
+									"endDate": "2022-05-21",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-21",
+									"endDate": "2022-05-22",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-22",
+									"endDate": "2022-05-23",
+									"base": "3500.00"
+								},
+								{
+									"startDate": "2022-05-23",
+									"endDate": "2022-05-24",
+									"base": "3500.00"
+								}
+							]
+						}
+					},
+					"policies": {
+						"paymentType": "guarantee",
+						"cancellation": {
+							"deadline": "2022-05-13T23:59:00+03:00"
+						}
+					},
+					"self": "https://api.amadeus.com/v2/shopping/hotel-offers/HT5HHHAQZM"
+				}
+			],
+			"self": "https://api.amadeus.com/v2/shopping/hotel-offers/by-hotel?hotelId=RZJEDRJZ&adults=2&checkInDate=2022-05-14&checkOutDate=2022-05-24&currency=IDR"
+		}
+	],
+	"dictionaries": {
+		"currencyConversionLookupRates": {
+			"SAR": {
+				"rate": "3835.2680000000000291",
+				"target": "IDR",
+				"targetDecimalPlaces": 2
+			}
+		}
+	}
+}
